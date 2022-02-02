@@ -38,13 +38,13 @@
   --second-color: rgb(37, 132, 196);
 }
 #first{
-  color: rgb(236, 48, 48);
+  color: rgb(216, 66, 124);
 }
 #second{
-  color:blueviolet;
+  color:rgb(207, 36, 36);
 }
 #third{
-  color:chartreuse;
+  color:rgb(194, 192, 61);
 }
 @media screen and (min-width: 968px) {
   :root {
